@@ -1,0 +1,13 @@
+Cython==0.29.7
+h5py==2.9.0
+joblib==0.13.2
+#matlabengineforpython===R2017b
+nltk==3.4.1
+numpy==1.16.2
+pandas==0.24.2
+python-dateutil==2.8.0
+pytz==2019.1
+#PyYAML==5.1
+-e git+https://github.com/zhaozj89/scikit-learn.git@8eda7a865b630125174324297d21232a62bc17a6#egg=scikit_learn
+scipy==1.2.1
+six==1.12.0
