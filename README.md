@@ -39,3 +39,5 @@
 * the dataset paths are configurated in `config.py`
 
 ----
+
+GNU GENERAL PUBLIC LICENSE
