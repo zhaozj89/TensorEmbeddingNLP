@@ -3,7 +3,7 @@ h5py==2.9.0
 joblib==0.13.2
 #matlabengineforpython===R2017b
 nltk==3.4.1
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 python-dateutil==2.8.0
 pytz==2019.1
