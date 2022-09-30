@@ -1,6 +1,6 @@
 Cython==0.29.7
 h5py==2.9.0
-joblib==0.13.2
+joblib==1.2.0
 #matlabengineforpython===R2017b
 nltk==3.4.1
 numpy==1.16.2
